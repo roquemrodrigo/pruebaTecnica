@@ -1,6 +1,6 @@
 
 
-# Spring Boot CRUD application using JPA and H2 Database
+# Spring Boot CRUDH2 
 
 >RestControllers
 
